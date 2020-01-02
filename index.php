@@ -13,7 +13,7 @@
     <h1>Daniel Kwon</h1>
     <div class = "menu">
         <h2 id = "current-page" >About</h2>
-        <div style = "text-indent: 1%">
+        <div style = "text-indent: 3%">
         <img src="src/portrait.jpg" height = "320" weight = "320">
         </div>
         <ul>
