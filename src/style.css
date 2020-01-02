@@ -23,6 +23,10 @@ a:active{
     color: black;
     background-color: aquamarine;
 }
+ul{
+    line-height: 150%;
+}
+
 .menu{
     float: left;
     width: 20%;
