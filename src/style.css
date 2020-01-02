@@ -2,6 +2,9 @@ body {
     color: white;
     background-color: black;
 }
-h2{
-    color: aquamarine;
+a{
+    text-decoration: none;
+}
+#side-menu:hover{
+    color: aquamarine
 }
