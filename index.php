@@ -15,7 +15,8 @@
         <h2>About</h2>
         <h2><a class = "side-menu" href = "resume.php">Resume</a></h2>
         <h2>Projects</h2>
-        <img src="src/github.png" height = "56" width = "56">
+        <a href = "https://github.com/danielkwonwu"><img src="src/github.png" height = "48" width = "48"></a>
+        <a href = "https://www.linkedin.com/in/daniel-kwon-3b5762177/"><img src="src/linkedin.png" height = "48" width = "48"></a>
     </div>
 </body>
 </html>
