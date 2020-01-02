@@ -10,18 +10,24 @@
     
 </head>
 <body>
-    <h1>Daniel Kwon</h1>
     <div class = "menu">
-        <h2>About</h2>
+        <h2 id = "current-page" >About</h2>
         <div style = "text-indent: 3%">
         <img src="src/portrait.jpg" height = "320" weight = "320">
         </div>
-        <ul>
-            <li> Washington University in St. Louis, Class of 2020 </li>
-            <li> BA, Major in Computer Science and Political Science </li>
-            <li> Web Development Intern at Office of Public Affairs, WUSTL </li>
-            <li> TA for 311A, 231S for the upcoming SP2020 semester </li>
-        </ul>
+            <h1>Daniel Kwon</h1>
+        <p>
+            I'm a senior at Wash U majoring in Computer Science and Political Science. 
+            I'm also an intern web developer for the Office of Public Affairs of Wash U. 
+            I am fast learner and a passionate problem-solver coming from a background of colorful experiences.
+            I love to both learn from and give back my knowledge to others.
+            I'll be a TA for the following courses in the upcoming SP2020 semester: 
+            <ul>
+                <li> 311A : Introduction to Intelligent Agents Using Science Fiction </li>
+                <li> 231S : Introduction to Parallel and Concurrent Programming </li>
+            </ul>
+            Please contact me at <a href = "danielkwon@wustl.edu">danielkwon@wustl.edu</a> if need arises.
+        </p>
         <br>
         <br>
         <br>
