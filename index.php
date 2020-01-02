@@ -9,9 +9,9 @@
 </head>
 <body>
     <h1>Daniel Kwon</h1>
-    <div class = "side-menu">
+    <div>
         <h2>About</h2>
-        <h2><a href = "resume.php">Resume</a></h2>
+        <h2><a class = "side-menu" href = "resume.php">Resume</a></h2>
         <h2>Projects</h2>
     </div>
 </body>

@@ -3,8 +3,14 @@ body {
     background-color: black;
 }
 a{
+    color : white;
     text-decoration: none;
 }
-.side-menu:hover{
+a:visited{
+    color : white;
+    text-decoration: none;
+}
+
+.side-menu :hover{
     color: aquamarine
 }
