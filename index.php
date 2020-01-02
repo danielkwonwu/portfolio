@@ -26,7 +26,7 @@
                     <li> 311A : Introduction to Intelligent Agents Using Science Fiction </li>
                     <li> 231S : Introduction to Parallel and Concurrent Programming </li>
                 </ul>
-                
+
                 Please contact me at <a href = "danielkwon@wustl.edu">danielkwon@wustl.edu</a> if need arises.
             </p>
         <br>
@@ -40,6 +40,14 @@
     
     <div class = "content">
         <h2 id = "current-page" >Projects</h2>
+        <h3>k-Means Uber Recommendation</h3>
+        <p>Recommendation for Uber Vehicles’ Idle Location with Big Data Analysis</p>
+
+        <h3>SimpleChatroom</h3>
+        <p>Node.js + Socket.io Multi-Room Environment Chatroom</p>
+
+        <h3>AppTrac</h3>
+        <p>PHP + MySQL Web App for Job Application Tracking</P>
     </div>
 </body>
 </html>
