@@ -20,6 +20,9 @@
         <a href = "https://github.com/danielkwonwu"><img src="src/github.png" height = "36" width = "36"></a>  
         <a href = "https://www.linkedin.com/in/daniel-kwon-3b5762177/"><img src="src/linkedin.png" height = "36" width = "36"></a>
     </div>
+    <div class = "content">
+        <h2> About </h2>
+    </div>
 </body>
 </html>
 
