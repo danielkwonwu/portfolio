@@ -17,8 +17,10 @@
         <h2 id = "current-page">Projects</h2>
         <br>
         <br>
-        <a id = "icon" href = "https://github.com/danielkwonwu"><img src="src/github.png" height = "30" width = "30"></a>  
-        <a id = "icon" href = "https://www.linkedin.com/in/daniel-kwon-3b5762177/"><img src="src/linkedin.png" height = "30" width = "30"></a>
+        <p id = "icon" >
+            <a href = "https://github.com/danielkwonwu"><img src="src/github.png" height = "30" width = "30"></a>  
+            <a href = "https://www.linkedin.com/in/daniel-kwon-3b5762177/"><img src="src/linkedin.png" height = "30" width = "30"></a>
+        </p>
     </div>
 </body>
 </html>
