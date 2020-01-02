@@ -9,7 +9,7 @@
 </head>
 <body>
     <h1>Daniel Kwon</h1>
-    <h2>About</h2>
+    <h2><a href = "resume.php">About</a></h2>
     <h2>Resume</h2>
     <h2>Projects</h2>
 </body>
