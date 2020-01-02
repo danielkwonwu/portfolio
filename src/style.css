@@ -15,22 +15,22 @@ a:visited{
     text-decoration: none;
 }
 a:hover{
-    color: aquamarine !important;
+    color: aquamarine;
 }
 a:active{
     font-weight: bold; 
-    color: aquamarine !important;
+    color: black;
+    background-color: aquamarine;
 }
 .menu{
     float: left;
-    width: 30%;
+    width: 20%;
 }
 .content{
     float: left;
-    width: 70%;
+    width: 80%;
 }
 
 #current-page {
-    font-weight: bold;
     color: aquamarine;
 }

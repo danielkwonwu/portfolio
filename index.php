@@ -22,6 +22,10 @@
     </div>
     <div class = "content">
         <h2> About </h2>
+        <ul>
+            <li> Washington University in St. Louis, Class of 2020 </li>
+            <li> Major in Computer Science, Political Science </li>
+        </ul>
     </div>
 </body>
 </html>
