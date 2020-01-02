@@ -11,13 +11,13 @@
 </head>
 <body>
     <h1>Daniel Kwon</h1>
-    <div>
+    <div class = "menu">
         <h2 id = "current-page" >About</h2>
         <h2><a class = "side-menu" href = "resume.php">Resume</a></h2>
         <h2><a class = "side-menu" href = "projects.php">Projects</a></h2>
         <br>
         <br>
-        <a href = "https://github.com/danielkwonwu"><img src="src/github.png" height = "36" width = "36"></a>
+        <a href = "https://github.com/danielkwonwu"><img src="src/github.png" height = "36" width = "36"></a>  
         <a href = "https://www.linkedin.com/in/daniel-kwon-3b5762177/"><img src="src/linkedin.png" height = "36" width = "36"></a>
     </div>
 </body>

@@ -11,7 +11,7 @@
 </head>
 <body>
     <h1>Daniel Kwon</h1>
-    <div>
+    <div class = "menu">
         <h2><a class = "side-menu" href = "index.php">About</a></h2>
         <h2><a class = "side-menu" href = "resume.php">Resume</a></h2>
         <h2 id = "current-page">Projects</h2>

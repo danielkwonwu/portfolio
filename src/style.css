@@ -21,6 +21,15 @@ a:active{
     font-weight: bold; 
     color: aquamarine !important;
 }
+.menu{
+    float: left;
+    width: 30%;
+}
+.content{
+    float: left;
+    width: 70%;
+}
+
 #current-page {
     font-weight: bold;
     color: white;
