@@ -15,6 +15,7 @@
         <h2>About</h2>
         <h2><a class = "side-menu" href = "resume.php">Resume</a></h2>
         <h2>Projects</h2>
+        <img src="src/github.png" height = "56" width = "56">
     </div>
 </body>
 </html>
