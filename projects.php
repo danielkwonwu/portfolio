@@ -12,9 +12,9 @@
 <body>
     <h1>Daniel Kwon</h1>
     <div>
-        <h2 id = "current-page" >About</h2>
+        <h2><a class = "side-menu" href = "index.php">About</a></h2>
         <h2><a class = "side-menu" href = "resume.php">Resume</a></h2>
-        <h2><a class = "side-menu" href = "projects.php">Projects</a></h2>
+        <h2 id = "current-page">Projects</h2>
         <br>
         <br>
         <a href = "https://github.com/danielkwonwu"><img src="src/github.png" height = "36" width = "36"></a>
@@ -22,4 +22,3 @@
     </div>
 </body>
 </html>
-
