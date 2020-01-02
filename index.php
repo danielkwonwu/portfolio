@@ -13,6 +13,15 @@
     <h1>Daniel Kwon</h1>
     <div class = "menu">
         <h2 id = "current-page" >About</h2>
+        <div style = "text-indent: 1%">
+        <img src="src/portrait.jpg" height = "320" weight = "320">
+        </div>
+        <ul>
+            <li> Washington University in St. Louis, Class of 2020 </li>
+            <li> BA, Major in Computer Science and Political Science </li>
+            <li> Web Development Intern at Office of Public Affairs, WUSTL </li>
+            <li> TA for 311A, 231S for the upcoming SP2020 semester </li>
+        </ul>
         <h2><a class = "side-menu" href = "resume.php">Resume</a></h2>
         <h2><a class = "side-menu" href = "projects.php">Projects</a></h2>
         <p id = "icon" >
@@ -22,15 +31,6 @@
     </div>
     <div class = "content">
         <h2> About Me </h2>
-        <div style = "text-indent: 10%">
-        <img src="src/portrait.jpg" height = "320" weight = "320">
-        </div>
-        <ul>
-            <li> Washington University in St. Louis, Class of 2020 </li>
-            <li> BA, Major in Computer Science and Political Science </li>
-            <li> Web Development Intern at Office of Public Affairs, WUSTL </li>
-            <li> TA for 311A, 231S for the upcoming SP2020 semester </li>
-        </ul>
     </div>
 </body>
 </html>
