@@ -31,6 +31,12 @@ ul{
     float: left;
     width: 30%;
 }
+.bottom{
+    float: left;
+    width: 30%;
+    position: absolute;
+    bottom: 0;
+}
 .content{
     float: left;
     width: 70%;
@@ -38,8 +44,4 @@ ul{
 
 #current-page {
     color: aquamarine;
-}
-#icon{
-    position: absolute;
-    bottom: 0;
 }
