@@ -44,12 +44,16 @@
         <br>
         <h3><a href = "https://github.com/danielkwonwu/k-means-uber-recommendation/blob/master/Uber%20Recommendation%20Report.pdf">k-Means Uber Recommendation</a></h3>
         <p>Recommendation for Uber Vehicles’ Idle Location with Big Data Analysis</p>
-
+        <br>
+        
         <h3><a href = "http://danielkwon.net:3456/">SimpleChatroom</a></h3>
         <p>Node.js + Socket.io Multi-Room Environment Chatroom</p>
+        <br>
 
         <h3><a href= "http://danielkwon.net/~danielkwon/apptrac/">AppTrac</a></h3>
-        <p>PHP + MySQL Web App for Job Application Tracking</P>
+        <p>PHP + MySQL Web App for Job Application Tracking</p>
+        <br>
+
     </div>
 </body>
 </html>
