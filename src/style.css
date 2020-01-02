@@ -1,6 +1,10 @@
 body {
+    font-family: 'Work Sans', sans-serif;
     color: white;
     background-color: black;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Crimson Text', serif;
 }
 a{
     color : white;
@@ -10,7 +14,10 @@ a:visited{
     color : white;
     text-decoration: none;
 }
-
 a:hover{
+    color: aquamarine !important;
+}
+a:active{
+    font-weight: bold; 
     color: aquamarine !important;
 }

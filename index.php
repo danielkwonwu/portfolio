@@ -5,7 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Daniel Kwon Portfolio</title>
+    <link href="https://fonts.googleapis.com/css?family=Crimson+Text|Work+Sans:400,700" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="src/style.css">
+    
 </head>
 <body>
     <h1>Daniel Kwon</h1>
