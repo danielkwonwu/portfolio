@@ -33,13 +33,14 @@ ul{
 }
 
 .menu{
+    margin-left: 5%
     float: left;
     width: 25%;
 }
 .content{
     margin-left: 5%;
     float: left;
-    width: 70%;
+    width: 60%;
 }
 
 #current-page {
