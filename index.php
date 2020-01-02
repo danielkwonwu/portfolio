@@ -25,12 +25,14 @@
         <a href = "https://www.linkedin.com/in/daniel-kwon-3b5762177/"><img src="src/linkedin.png" height = "36" width = "36"></a>
     </div>
     <div class = "content">
-        <h2> About </h2>
+        <h2> About Me </h2>
 
         <img src="src/portrait.jpg" height = "400" weight = "400">
         <ul>
             <li> Washington University in St. Louis, Class of 2020 </li>
-            <li> Major in Computer Science, Political Science </li>
+            <li> BA, Major in Computer Science and Political Science </li>
+            <li> Web Development Intern at Office of Public Affairs, WUSTL </li>
+            <li> TA for 311A, 231S for the upcoming SP2020 semester </li>
         </ul>
     </div>
 </body>
