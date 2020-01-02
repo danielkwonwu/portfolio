@@ -26,7 +26,8 @@
     </div>
     <div class = "content">
         <h2> About </h2>
-        <img src="src/portrait.jpg" >
+
+        <img src="src/portrait.jpg" height = "400" weight = "400">
         <ul>
             <li> Washington University in St. Louis, Class of 2020 </li>
             <li> Major in Computer Science, Political Science </li>
