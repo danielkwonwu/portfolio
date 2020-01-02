@@ -33,13 +33,13 @@ ul{
 }
 .bottom{
     float: left;
-    width: 30%;
+    width: 25%;
     position: absolute;
     bottom: 0;
 }
 .content{
     float: left;
-    width: 70%;
+    width: 75%;
 }
 
 #current-page {

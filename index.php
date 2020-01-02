@@ -15,12 +15,12 @@
         <div style = "text-indent: 3%">
         <img src="src/portrait.jpg" height = "320" weight = "320">
         </div>
-            <h1>Daniel Kwon</h1>
-        <p>
+            <h1><a href = "http://www.danielkwon.net/portfolio/">Daniel Kwon</a></h1>
+        <p style = "line-height : 120%">
             I'm a senior at Wash U majoring in Computer Science and Political Science. 
             I'm also an intern web developer for the Office of Public Affairs of Wash U. 
-            I am fast learner and a passionate problem-solver coming from a background of colorful experiences.
-            I love to both learn from and give back my knowledge to others.
+            I am a fast learner and a passionate problem-solver coming from a background of experiences from different sectors.
+            I love learning from others and spreading what I know.
             I'll be a TA for the following courses in the upcoming SP2020 semester: 
             <ul>
                 <li> 311A : Introduction to Intelligent Agents Using Science Fiction </li>
@@ -28,6 +28,8 @@
             </ul>
             Please contact me at <a href = "danielkwon@wustl.edu">danielkwon@wustl.edu</a> if need arises.
         </p>
+        <br>
+        <br>
         <br>
         <br>
         <br>
