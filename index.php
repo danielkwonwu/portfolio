@@ -26,6 +26,7 @@
                     <li> 311A : Introduction to Intelligent Agents Using Science Fiction </li>
                     <li> 231S : Introduction to Parallel and Concurrent Programming </li>
                 </ul>
+                
                 Please contact me at <a href = "danielkwon@wustl.edu">danielkwon@wustl.edu</a> if need arises.
             </p>
         <br>
