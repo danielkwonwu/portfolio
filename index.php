@@ -15,12 +15,6 @@
         <h2 id = "current-page" >About</h2>
         <h2><a class = "side-menu" href = "resume.php">Resume</a></h2>
         <h2><a class = "side-menu" href = "projects.php">Projects</a></h2>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
-        <br>
         <p id = "icon" >
             <a href = "https://github.com/danielkwonwu"><img src="src/github.png" height = "30" width = "30"></a>  
             <a href = "https://www.linkedin.com/in/daniel-kwon-3b5762177/"><img src="src/linkedin.png" height = "30" width = "30"></a>
@@ -28,8 +22,9 @@
     </div>
     <div class = "content">
         <h2> About Me </h2>
-
-        <img src="src/portrait.jpg" height = "400" weight = "400">
+        <div style = "text-indent: 10%">
+        <img src="src/portrait.jpg" height = "320" weight = "320">
+        </div>
         <ul>
             <li> Washington University in St. Louis, Class of 2020 </li>
             <li> BA, Major in Computer Science and Political Science </li>
