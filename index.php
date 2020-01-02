@@ -12,7 +12,7 @@
 <body>
     <h1>Daniel Kwon</h1>
     <div class = "menu">
-        <h2 id = "current-page" >About</h2>
+        <h2>About</h2>
         <div style = "text-indent: 3%">
         <img src="src/portrait.jpg" height = "320" weight = "320">
         </div>
@@ -22,15 +22,15 @@
             <li> Web Development Intern at Office of Public Affairs, WUSTL </li>
             <li> TA for 311A, 231S for the upcoming SP2020 semester </li>
         </ul>
-        <h2><a class = "side-menu" href = "resume.php">Resume</a></h2>
-        <h2><a class = "side-menu" href = "projects.php">Projects</a></h2>
+        
+        <h2 id = "current-page"  >Projects</h2>
         <p id = "icon" >
+            <h2><a class = "side-menu" href = "resume.php">Resume</a></h2>
             <a href = "https://github.com/danielkwonwu"><img src="src/github.png" height = "30" width = "30"></a>  
             <a href = "https://www.linkedin.com/in/daniel-kwon-3b5762177/"><img src="src/linkedin.png" height = "30" width = "30"></a>
         </p>
     </div>
     <div class = "content">
-        <h2> About Me </h2>
     </div>
 </body>
 </html>
