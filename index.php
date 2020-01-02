@@ -47,7 +47,7 @@
         <p>Food Review website with functions including star rating visualization, near-by restaurant listing, SCSS, and more. Co-authored with Zach Young.</p>
         <br>
 
-        <h3><a href = "http://danielkwon.net/my-treasure-no-touchy.html">My Treasure No Touchy!</a></h3>
+        <h3><a href = "http://danielkwon.net/portfolio/my-treasure-no-touchy.html">My Treasure No Touchy!</a></h3>
         <h4>A Magical Tower Defense Game</h4>
         <p><b>Technology Used</b>: Unity, C#</p>
         <p>A tower-defense game with a wizard as the main character. Co-authored with Eric Li, Sam Wait, and Pranav Jain.</p>
