@@ -7,6 +7,10 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Open Sans', sans-serif;
     font-weight: 700;
 }
+p{
+    font-size: 12pt;
+    line-height: 120%;
+}
 a{
     color : white;
     text-decoration: none;
@@ -24,7 +28,7 @@ a:active{
     background-color: aquamarine;
 }
 ul{
-    line-height: 150%;
+    line-height: 120%;
 }
 
 .menu{

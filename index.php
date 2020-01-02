@@ -16,7 +16,7 @@
             <img src="src/portrait.jpg" height = "320" weight = "320">
         </div>
             <h1><a href = "http://www.danielkwon.net/portfolio/">Daniel Kwon</a></h1>
-            <p style = "line-height : 120%">
+            <p>
                 I'm a senior at Wash U majoring in Computer Science and Political Science. 
                 I'm also an intern web developer for the Office of Public Affairs of Wash U. 
                 I am a fast learner and a passionate problem-solver coming from a background of experiences from different sectors.
