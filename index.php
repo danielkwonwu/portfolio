@@ -23,7 +23,6 @@
             <li> TA for 311A, 231S for the upcoming SP2020 semester </li>
         </ul>
         
-        <h2 id = "current-page"  >Projects</h2>
         <p id = "icon" >
             <h2><a class = "side-menu" href = "resume.php">Resume</a></h2>
             <a href = "https://github.com/danielkwonwu"><img src="src/github.png" height = "30" width = "30"></a>  
@@ -31,6 +30,7 @@
         </p>
     </div>
     <div class = "content">
+        <h2 id = "current-page"  >Projects</h2>
     </div>
 </body>
 </html>
