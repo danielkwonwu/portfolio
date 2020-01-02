@@ -24,11 +24,11 @@ a:active{
 }
 .menu{
     float: left;
-    width: 20%;
+    width: 10%;
 }
 .content{
     float: left;
-    width: 80%;
+    width: 90%;
 }
 
 #current-page {

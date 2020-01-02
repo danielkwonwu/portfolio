@@ -17,11 +17,16 @@
         <h2><a class = "side-menu" href = "projects.php">Projects</a></h2>
         <br>
         <br>
+        <br>
+        <br>
+        <br>
+        <br>
         <a href = "https://github.com/danielkwonwu"><img src="src/github.png" height = "36" width = "36"></a>  
         <a href = "https://www.linkedin.com/in/daniel-kwon-3b5762177/"><img src="src/linkedin.png" height = "36" width = "36"></a>
     </div>
     <div class = "content">
         <h2> About </h2>
+        <img src="src/portrait.jpg" >
         <ul>
             <li> Washington University in St. Louis, Class of 2020 </li>
             <li> Major in Computer Science, Political Science </li>
