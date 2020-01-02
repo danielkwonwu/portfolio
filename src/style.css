@@ -1,10 +1,11 @@
 body {
-    font-family: 'Work Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
     color: white;
     background-color: black;
 }
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Crimson Text', serif;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
 }
 a{
     color : white;
@@ -33,4 +34,8 @@ a:active{
 
 #current-page {
     color: aquamarine;
+}
+#icon{
+    position: absolute;
+    bottom: 0;
 }
