@@ -11,6 +11,6 @@ a:visited{
     text-decoration: none;
 }
 
-a.side-menu :hover{
-    color: aquamarine
+.side-menu :hover{
+    color: aquamarine !important;
 }
