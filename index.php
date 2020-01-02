@@ -22,11 +22,12 @@
             <li> Web Development Intern at Office of Public Affairs, WUSTL </li>
             <li> TA for 311A, 231S for the upcoming SP2020 semester </li>
         </ul>
-    </div>  
-    <div class = "bottom" >
-            <h2><a href = "resume.php">Resume</a></h2>
-            <a href = "https://github.com/danielkwonwu"><img src="src/github.png" height = "30" width = "30"></a>  
-            <a href = "https://www.linkedin.com/in/daniel-kwon-3b5762177/"><img src="src/linkedin.png" height = "30" width = "30"></a>
+        <br>
+        <br>
+        <br>
+        <h2><a href = "resume.php">Resume</a></h2>
+        <a href = "https://github.com/danielkwonwu"><img src="src/github.png" height = "30" width = "30"></a>  
+        <a href = "https://www.linkedin.com/in/daniel-kwon-3b5762177/"><img src="src/linkedin.png" height = "30" width = "30"></a>
     </div>
     
     <div class = "content">
