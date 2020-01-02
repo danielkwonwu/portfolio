@@ -31,12 +31,6 @@ ul{
     float: left;
     width: 30%;
 }
-.bottom{
-    float: left;
-    width: 25%;
-    position: absolute;
-    bottom: 0;
-}
 .content{
     float: left;
     width: 75%;

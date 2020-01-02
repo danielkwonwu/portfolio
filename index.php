@@ -32,7 +32,6 @@
         <br>
         <br>
         <br>
-        <br>
         <h2><a href = "resume.php">Resume</a></h2>
         <a href = "https://github.com/danielkwonwu"><img src="src/github.png" height = "30" width = "30"></a>  
         <a href = "https://www.linkedin.com/in/daniel-kwon-3b5762177/"><img src="src/linkedin.png" height = "30" width = "30"></a>
