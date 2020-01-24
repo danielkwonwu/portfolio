@@ -1,7 +1,7 @@
 <?php
 
-$file = 'src/resume1912.pdf';
-$filename = 'src/resume1912.pdf';
+$file = 'src/resume2001.pdf';
+$filename = 'src/resume2001.pdf';
 
 // Header content type
 header('Content-type: application/pdf');
