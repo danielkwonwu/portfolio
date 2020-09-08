@@ -40,7 +40,11 @@
         <h3><a href = "https://github.com/danielkwonwu/gulp">GULP</a></h3>
         <h4>Food Review Website with Geotag</h4>
         <p><b>Tech Stack : </b></p>
-        <p>Backend : Express.js Frontend : React.js  Google Apis (Static Map, Geolocation)</p>
+        <ul>
+            <li>Backend: Express.js</li>
+            <li>Frontend: React.js</li>
+            <li>Data: Google Apis (Static Map, Geolocation)</li>
+        </ul>
         <p>Food Review website with functions including star rating visualization, near-by restaurant listing, SCSS, and more. Co-authored with Zach Young.</p>
         <br>
 
