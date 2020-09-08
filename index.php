@@ -34,10 +34,13 @@
     
     <div class = "content">
         <h2 id = "current-page" >Projects</h2>
-        <br>
+        <p>Click on each titles to take a closer look at the works.</p>
+        <br>        
+
         <h3><a href = "https://github.com/danielkwonwu/gulp">GULP</a></h3>
         <h4>Food Review Website with Geotag</h4>
-        <p><b>Technology Used</b>: Express.js, React.js, Google Apis (Static Map, Geolocation)</p>
+        <p><b>Tech Stack : </b></p>
+        <p>Backend : Express.js Frontend : React.js  Google Apis (Static Map, Geolocation)</p>
         <p>Food Review website with functions including star rating visualization, near-by restaurant listing, SCSS, and more. Co-authored with Zach Young.</p>
         <br>
 
