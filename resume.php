@@ -1,12 +1,11 @@
 <?php
 
-$file = 'src/resume2001.pdf';
-$filename = 'src/resume2001.pdf';
+$file = 'src/resume2008.pdf';
 
 // Header content type
 header('Content-type: application/pdf');
 
-header('Content-Disposition: inline; filename="' . $filename . '"');
+header('Content-Disposition: inline; filename="' . $file . '"');
 
 header('Content-Transfer-Encoding: binary');
 
