@@ -33,13 +33,13 @@ ul{
 }
 
 .menu{
-    margin-left: 5%;
+    margin-left: 1%;
     float: left;
     width: 360px;
     border: 1px solid white;
 }
 .content{
-    margin-left: 5%;
+    margin-left: 3%;
     float: left;
     width: 60%;
 }
