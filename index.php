@@ -16,13 +16,9 @@
             <img src="src/portrait.jpg" height = "320" weight = "320">
         </div>
             <h1><a href = "http://www.danielkwon.net/portfolio/">Daniel Kwon</a></h1>
-            <p>
-                I'm a senior at Wash U majoring in Computer Science and Political Science. 
-                I'm also an intern web developer for the Office of Public Affairs of Wash U. 
-                I am a fast learner and a passionate problem-solver coming from a background of experiences from different sectors.
-                I love learning from others and spreading what I know.
-                Please contact me at <a href = "danielkwon.wu@gmail.com">danielkwon.wu@gmail.com</a> if need arises.
-            </p>
+            <p>I am a Master's Candidate at Wash U majoring in Computer Science.</p>
+            <p>I aspire to be a passionate problem-solver with my diverse experience and knowledge.</p>
+            <p>Please contact me at <a href = "danielkwon.wu@gmail.com">danielkwon.wu@gmail.com</a> to find out more about who I am and who I want to be.</p>
         <br>
         <br>
         <br>
