@@ -16,12 +16,10 @@
             <img src="src/portrait.jpg" height = "320" weight = "320">
         </div>
             <h1><a href = "http://www.danielkwon.net/portfolio/">Daniel Kwon</a></h1>
-            <p>I am a Master's Candidate at Wash U majoring in Computer Science.</p>
-            <p>I aspire to be a passionate problem-solver with my diverse experience and knowledge.</p>
-            <p>Please contact me at <a href = "danielkwon.wu@gmail.com">danielkwon.wu@gmail.com</a> to find out more about who I am and who I want to be.</p>
-        <br>
-        <br>
-        <br>
+            <p> I am a Master's Candidate at Wash U majoring in Computer Science.</p>
+            <p> In this current era of COVID-19, I believe that the softwares can restore the human intimacy lost due to social distancing.</p>
+            <p> I aspire to contribute to finding ways to overcome the changes COVID-19 has brought.</p>
+            <p> Please contact me at <a href = "danielkwon.wu@gmail.com">danielkwon.wu@gmail.com</a> to find out more about who I am and who I want to be.</p>
         <br>
         <h2><a href = "resume.php">Resume</a></h2>
         <a href = "https://github.com/danielkwonwu"><img src="src/github.png" height = "30" width = "30"></a>  
