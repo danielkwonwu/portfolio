@@ -36,6 +36,16 @@
         <h2 id = "current-page" >Projects</h2>
         <p>Click on each titles to take a closer look at the works.</p>
         <br>        
+        <h3><a href = "https://github.com/danielkwonwu/testcase-share">Testcase Share</a></h3>
+        <h4>Testcase Shareing Web Platform</h4>
+        <p><b>Tech Stack : </b></p>
+        <ul>
+            <li>Backend: Express.js, Bash, Java</li>
+            <li>Frontend: React.js</li>
+            <li>Database: MySQL</li>
+        </ul>
+        <p>Unit test sharing website with social features to aid computer science education in the COVID-19 era.</p>
+        <br>
 
         <h3><a href = "https://github.com/danielkwonwu/gulp">GULP</a></h3>
         <h4>Food Review Website with Geotag</h4>
@@ -43,7 +53,7 @@
         <ul>
             <li>Backend: Express.js</li>
             <li>Frontend: React.js</li>
-            <li>Data: Google Apis (Static Map, Geolocation)</li>
+            <li>Utility: Google Api (Static Map, Geolocation)</li>
         </ul>
         <p>Food Review website with functions including star rating visualization, near-by restaurant listing, SCSS, and more. Co-authored with Zach Young.</p>
         <br>
