@@ -18,15 +18,15 @@ p{
     line-height: 120%;
 }
 a{
-    color : white;
+    color: aquamarine;
     text-decoration: none;
 }
 a:visited{
-    color : white;
+    color: aquamarine;
     text-decoration: none;
 }
 a:hover{
-    color: aquamarine;
+    color: white;
 }
 a:active{
     font-weight: bold; 
@@ -49,5 +49,5 @@ ul{
 }
 
 #current-page {
-    color: aquamarine;
+    
 }
