@@ -28,7 +28,6 @@
     
     <div class = "content">
         <h2 id = "current-page" >PROJECTS</h2>
-        <br>        
         <h3><a href = "https://github.com/danielkwonwu/testcase-share">Testcase Share</a></h3>
         <h4>Testcase Sharing Web Platform</h4>
         <p><b>Tech Stack: </b></p>
