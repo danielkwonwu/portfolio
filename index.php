@@ -38,7 +38,6 @@
         </ul>
         <p>Unit test sharing website with social features to aid computer science education in the COVID-19 era.</p>
         <br>
-        <br>
 
         <h3><a href = "https://github.com/danielkwonwu/gulp">GULP</a></h3>
         <h4>Food Review Website with Geotag</h4>
@@ -50,7 +49,6 @@
         </ul>
         <p>Food Review website with functions including star rating visualization, near-by restaurant listing, SCSS, and more. Co-authored with Zach Young.</p>
         <br>
-        <br>
 
         <h3><a href = "http://danielkwon.net/portfolio/my-treasure-no-touchy.html">My Treasure No Touchy!</a></h3>
         <h4>A Magical Tower Defense Game</h4>
@@ -60,7 +58,6 @@
             <li>Script: C#</li>
         </ul>
         <p>A tower-defense game with a wizard as the main character. Co-authored with Eric Li, Sam Wait, and Pranav Jain.</p>
-        <br>
         <br>
 
         <h3><a href = "https://github.com/danielkwonwu/k-means-uber-recommendation/blob/master/Uber%20Recommendation%20Report.pdf">k-Means Uber Recommendation</a></h3>
@@ -72,7 +69,6 @@
         </ul>
         <p>In the anticipation of the age of self-driving vehicles for hire, we've developed a k-means recommendation algorithm for the idle car locations based on 4.5 million geolocation data points. More information can be found in the report. Co-authored with Jice Kunfeng Zheng and Rui Qiu.</p>
         <br>
-        <br>
         
         <h3><a href = "http://danielkwon.net:3456/">SimpleChatroom</a></h3>
         <h4>Multi-Room Environment Chatroom</h4>
@@ -82,7 +78,6 @@
             <li>Utility: Socket.io</li>
         </ul>
         <p>Implementation of simple real-time chatroom with basic design and features.  Co-authored with Zach Young.</p>
-        <br>
         <br>
 
         <h3><a href="https://github.com/khye99/user_alert">User_Alert Plugin</a></h3>
@@ -94,7 +89,6 @@
         </ul>
         <p>A Wordpress plugin to crawl user data upon changes in user permission levels or via cron jobs and manual requests to a third-party URL. Data is sent in JSON format. Co-authored with Karen Ye.</p>
         <br>
-        <br>
 
         <h3><a href= "http://danielkwon.net/~danielkwon/apptrac/">AppTrac</a></h3>
         <h4>Web App for Job Application Tracking</h4>
@@ -104,7 +98,6 @@
             <li>Database: MySQL</li>
         </ul>
         <p>Job App Tracker with implementation of posting and editing features.</p>
-        <br>
         <br>
     </div>
 </body>
