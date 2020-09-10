@@ -11,7 +11,7 @@
 </head>
 <body>
     <div class = "menu">
-        <h2 id = "current-page" >About</h2>
+        <h2 id = "current-page" >ABOUT</h2>
         <div style = "text-indent: 3%">
             <h1><a href = "http://www.danielkwon.net/portfolio/">Daniel Kwon</a></h1>
             <img src="src/portrait.jpg" height = "320" weight = "320">
@@ -27,12 +27,11 @@
     </div>
     
     <div class = "content">
-        <h2 id = "current-page" >Projects</h2>
-        <p>Click on each titles to take a closer look at the works.</p>
+        <h2 id = "current-page" >PROJECTS</h2>
         <br>        
         <h3><a href = "https://github.com/danielkwonwu/testcase-share">Testcase Share</a></h3>
-        <h4>Testcase Shareing Web Platform</h4>
-        <p><b>Tech Stack : </b></p>
+        <h4>Testcase Sharing Web Platform</h4>
+        <p><b>Tech Stack: </b></p>
         <ul>
             <li>Backend: Express.js, Bash, Java</li>
             <li>Frontend: React.js</li>
@@ -43,7 +42,7 @@
 
         <h3><a href = "https://github.com/danielkwonwu/gulp">GULP</a></h3>
         <h4>Food Review Website with Geotag</h4>
-        <p><b>Tech Stack : </b></p>
+        <p><b>Tech Stack: </b></p>
         <ul>
             <li>Backend: Express.js</li>
             <li>Frontend: React.js</li>
@@ -54,7 +53,7 @@
 
         <h3><a href = "http://danielkwon.net/portfolio/my-treasure-no-touchy.html">My Treasure No Touchy!</a></h3>
         <h4>A Magical Tower Defense Game</h4>
-        <p><b>Tech Stack : </b></p>
+        <p><b>Tech Stack: </b></p>
         <ul>
             <li>Engine: Unity</li>
             <li>Script: C#</li>
@@ -64,7 +63,7 @@
 
         <h3><a href = "https://github.com/danielkwonwu/k-means-uber-recommendation/blob/master/Uber%20Recommendation%20Report.pdf">k-Means Uber Recommendation</a></h3>
         <h4>Recommendation for Uber Vehicles’ Idle Location with Big Data Analysis</h4>
-        <p><b>Tech Stack : </b></p>
+        <p><b>Tech Stack: </b></p>
         <ul>
             <li>Cluster: AWS</li>
             <li>Data Processing: PySpark</li>
@@ -74,7 +73,7 @@
         
         <h3><a href = "http://danielkwon.net:3456/">SimpleChatroom</a></h3>
         <h4>Multi-Room Environment Chatroom</h4>
-        <p><b>Tech Stack : </b></p>
+        <p><b>Tech Stack: </b></p>
         <ul>
             <li>Frontend: Node.js</li>
             <li>Utility: Socket.io</li>
@@ -84,7 +83,7 @@
 
         <h3><a href="https://github.com/khye99/user_alert">User_Alert Plugin</a></h3>
         <h4>WordPress Plugin to Manage User Data</h4>
-        <p><b>Tech Stack : </b></p>
+        <p><b>Tech Stack: </b></p>
         <ul>
             <li>Web: PHP</li>
             <li>Frontend: React.js</li>
@@ -94,7 +93,7 @@
 
         <h3><a href= "http://danielkwon.net/~danielkwon/apptrac/">AppTrac</a></h3>
         <h4>Web App for Job Application Tracking</h4>
-        <p><b>Tech Stack : </b></p>
+        <p><b>Tech Stack: </b></p>
         <ul>
             <li>Web: PHP, JavaScript</li>
             <li>Database: MySQL</li>
