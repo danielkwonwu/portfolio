@@ -34,7 +34,7 @@ a:active{
     background-color: aquamarine;
 }
 ul{
-    line-height: 120%;
+    line-height: 1.5rem;
 }
 
 .menu{
@@ -44,6 +44,7 @@ ul{
 .content{
     float: left;
     width: 60%;
+    margin-left : 5px;
 }
 .title{
     font-size: 30pt;

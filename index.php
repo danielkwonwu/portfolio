@@ -12,7 +12,7 @@
 <body>
     <div class = "menu">
         <h2 id = "current-page" >ABOUT</h2>
-        <div style = "text-indent: 3%">
+        <div>
             <h1><a href = "http://www.danielkwon.net/portfolio/">Daniel Kwon</a></h1>
             <img src="src/portrait.jpg" height = "320" weight = "320">
             <p> I am a Master's Candidate at Wash U majoring in Computer Science.</p>
