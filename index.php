@@ -113,7 +113,7 @@
         <p>Job App Tracker with implementation of posting and editing features.</p>
         <br>
         <hr>
-        <br>a
+        <br>
     </div>
 </body>
 </html>
