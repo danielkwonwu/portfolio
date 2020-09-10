@@ -38,16 +38,16 @@ ul{
 }
 
 .menu{
-    margin-left: 1%;
     float: left;
     width: 360px;
 }
 .content{
-    margin-left: 3%;
     float: left;
     width: 60%;
 }
-
+.title{
+    font-size: 30pt;
+}
 #current-page {
     
 }
