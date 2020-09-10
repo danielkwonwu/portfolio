@@ -29,7 +29,7 @@
     <div class = "content">
         <h2 id = "current-page" >PROJECTS</h2>
         <h3><a href = "https://github.com/danielkwonwu/testcase-share">Testcase Share</a></h3>
-        <h4>Testcase Sharing Web Platform</h4>
+        <p>Testcase Sharing Web Platform</p>
         <p><b>Tech Stack: </b></p>
         <ul>
             <li>Backend: Express.js, Bash, Java</li>
@@ -40,7 +40,7 @@
         <br>
 
         <h3><a href = "https://github.com/danielkwonwu/gulp">GULP</a></h3>
-        <h4>Food Review Website with Geotag</h4>
+        <p>Food Review Website with Geotag</p>
         <p><b>Tech Stack: </b></p>
         <ul>
             <li>Backend: Express.js</li>
@@ -51,7 +51,7 @@
         <br>
 
         <h3><a href = "http://danielkwon.net/portfolio/my-treasure-no-touchy.html">My Treasure No Touchy!</a></h3>
-        <h4>A Magical Tower Defense Game</h4>
+        <p>A Magical Tower Defense Game</p>
         <p><b>Tech Stack: </b></p>
         <ul>
             <li>Engine: Unity</li>
@@ -61,7 +61,7 @@
         <br>
 
         <h3><a href = "https://github.com/danielkwonwu/k-means-uber-recommendation/blob/master/Uber%20Recommendation%20Report.pdf">k-Means Uber Recommendation</a></h3>
-        <h4>Recommendation for Uber Vehicles’ Idle Location with Big Data Analysis</h4>
+        <p>Recommendation for Uber Vehicles’ Idle Location with Big Data Analysis</p>
         <p><b>Tech Stack: </b></p>
         <ul>
             <li>Cluster: AWS</li>
@@ -71,7 +71,7 @@
         <br>
         
         <h3><a href = "http://danielkwon.net:3456/">SimpleChatroom</a></h3>
-        <h4>Multi-Room Environment Chatroom</h4>
+        <p>Multi-Room Environment Chatroom</p>
         <p><b>Tech Stack: </b></p>
         <ul>
             <li>Frontend: Node.js</li>
@@ -81,7 +81,7 @@
         <br>
 
         <h3><a href="https://github.com/khye99/user_alert">User_Alert Plugin</a></h3>
-        <h4>WordPress Plugin to Manage User Data</h4>
+        <p>WordPress Plugin to Manage User Data</p>
         <p><b>Tech Stack: </b></p>
         <ul>
             <li>Web: PHP</li>
@@ -91,7 +91,7 @@
         <br>
 
         <h3><a href= "http://danielkwon.net/~danielkwon/apptrac/">AppTrac</a></h3>
-        <h4>Web App for Job Application Tracking</h4>
+        <p>Web App for Job Application Tracking</p>
         <p><b>Tech Stack: </b></p>
         <ul>
             <li>Web: PHP, JavaScript</li>
