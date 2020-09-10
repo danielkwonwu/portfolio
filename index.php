@@ -29,7 +29,7 @@
     <div class = "content">
         <h2 id = "current-page" >PROJECTS</h2>
         <h3><a href = "https://github.com/danielkwonwu/testcase-share">Testcase Share</a></h3>
-        <p>Testcase Sharing Web Platform</p>
+        <p class = "subheader">Testcase Sharing Web Platform</p class = "subheader">
         <p><b>Tech Stack: </b></p>
         <ul>
             <li>Backend: Express.js, Bash, Java</li>
@@ -40,7 +40,7 @@
         <br>
 
         <h3><a href = "https://github.com/danielkwonwu/gulp">GULP</a></h3>
-        <p>Food Review Website with Geotag</p>
+        <p class = "subheader">Food Review Website with Geotag</p class = "subheader">
         <p><b>Tech Stack: </b></p>
         <ul>
             <li>Backend: Express.js</li>
@@ -51,7 +51,7 @@
         <br>
 
         <h3><a href = "http://danielkwon.net/portfolio/my-treasure-no-touchy.html">My Treasure No Touchy!</a></h3>
-        <p>A Magical Tower Defense Game</p>
+        <p class = "subheader">A Magical Tower Defense Game</p class = "subheader">
         <p><b>Tech Stack: </b></p>
         <ul>
             <li>Engine: Unity</li>
@@ -61,7 +61,7 @@
         <br>
 
         <h3><a href = "https://github.com/danielkwonwu/k-means-uber-recommendation/blob/master/Uber%20Recommendation%20Report.pdf">k-Means Uber Recommendation</a></h3>
-        <p>Recommendation for Uber Vehicles’ Idle Location with Big Data Analysis</p>
+        <p class = "subheader">Recommendation for Uber Vehicles’ Idle Location with Big Data Analysis</p class = "subheader">
         <p><b>Tech Stack: </b></p>
         <ul>
             <li>Cluster: AWS</li>
@@ -71,7 +71,7 @@
         <br>
         
         <h3><a href = "http://danielkwon.net:3456/">SimpleChatroom</a></h3>
-        <p>Multi-Room Environment Chatroom</p>
+        <p class = "subheader">Multi-Room Environment Chatroom</p class = "subheader">
         <p><b>Tech Stack: </b></p>
         <ul>
             <li>Frontend: Node.js</li>
@@ -81,7 +81,7 @@
         <br>
 
         <h3><a href="https://github.com/khye99/user_alert">User_Alert Plugin</a></h3>
-        <p>WordPress Plugin to Manage User Data</p>
+        <p class = "subheader">WordPress Plugin to Manage User Data</p class = "subheader">
         <p><b>Tech Stack: </b></p>
         <ul>
             <li>Web: PHP</li>
@@ -91,7 +91,7 @@
         <br>
 
         <h3><a href= "http://danielkwon.net/~danielkwon/apptrac/">AppTrac</a></h3>
-        <p>Web App for Job Application Tracking</p>
+        <p class = "subheader">Web App for Job Application Tracking</p class = "subheader">
         <p><b>Tech Stack: </b></p>
         <ul>
             <li>Web: PHP, JavaScript</li>
