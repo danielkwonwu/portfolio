@@ -1,6 +1,6 @@
 <?php
 
-$file = 'src/daniel_kwon_20_august.pdf';
+$file = 'src/daniel_kwon_20_september.pdf';
 
 // Header content type
 header('Content-type: application/pdf');
